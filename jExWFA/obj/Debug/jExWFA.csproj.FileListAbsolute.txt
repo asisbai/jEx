@@ -1,0 +1,12 @@
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\bin\Debug\jExWFA.exe.config
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\bin\Debug\jExWFA.exe
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\bin\Debug\jExWFA.pdb
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.JUI.resources
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.Properties.Resources.resources
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.csproj.GenerateResource.Cache
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.exe
+c:\users\jordan\documents\visual studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.pdb
+C:\Users\Jordan\Documents\Visual Studio 2017\Projects\jExWFA\jExWFA\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jordan\Documents\Visual Studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.Cheat.CheatPanel.resources
+C:\Users\Jordan\Documents\Visual Studio 2017\Projects\jExWFA\jExWFA\obj\Debug\jExWFA.Cheat.User_Controls.ColorPanel.resources
